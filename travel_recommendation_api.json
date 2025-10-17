@@ -6,12 +6,12 @@
         "cities": [
           {
             "name": "Sydney, Australia",
-            "imageUrl": "enter_your_image_for_sydney.jpg",
+            "imageUrl": "https://planetescape.pl//app/uploads/2018/03/Sydney_Banner.jpg",
             "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
           },
           {
             "name": "Melbourne, Australia",
-            "imageUrl": "enter_your_image_for_melbourne.jpg",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Melburnian_Skyline_b.jpg/330px-Melburnian_Skyline_b.jpg",
             "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
           }
         ]
@@ -22,12 +22,12 @@
         "cities": [
           {
             "name": "Tokyo, Japan",
-            "imageUrl": "enter_your_image_for_tokyo.jpg",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/330px-Skyscrapers_of_Shinjuku_2009_January.jpg",
             "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
           },
           {
             "name": "Kyoto, Japan",
-            "imageUrl": "enter_your_image_for_kyoto.jpg",
+            "imageUrl": "https://www.neverendingvoyage.com/wp-content/uploads/2019/09/kyoto-japan-26.jpg",
             "description": "Known for its historic temples, gardens, and traditional tea houses."
           }
         ]
@@ -38,12 +38,12 @@
         "cities": [
           {
             "name": "Rio de Janeiro, Brazil",
-            "imageUrl": "enter_your_image_for_rio.jpg",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cidade_Maravilhosa.jpg/330px-Cidade_Maravilhosa.jpg",
             "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
           },
           {
             "name": "São Paulo, Brazil",
-            "imageUrl": "enter_your_image_for_sao-paulo.jpg",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marginal_Pinheiros_e_Jockey_Club.jpg/330px-Marginal_Pinheiros_e_Jockey_Club.jpg",
             "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
           }
         ]
@@ -53,13 +53,13 @@
       {
         "id": 1,
         "name": "Angkor Wat, Cambodia",
-        "imageUrl": "enter_your_image_for_angkor-wat.jpg",
+        "imageUrl": "https://travelandkeepfit.com/wp-content/uploads/2016/08/P2274212-ip60a5yg.jpg",
         "description": "A UNESCO World Heritage site and the largest religious monument in the world."
       },
       {
         "id": 2,
         "name": "Taj Mahal, India",
-        "imageUrl": "enter_your_image_for_taj-mahal.jpg",
+        "imageUrl": "https://assets.architecturaldigest.in/photos/68aee6b6c217baca2192039c/16:9/w_1616,h_909,c_limit/Untitled%20design%20-%202025-08-27T163622.470.png",
         "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
       }
     ],
@@ -67,13 +67,13 @@
       {
         "id": 1,
         "name": "Bora Bora, French Polynesia",
-        "imageUrl": "enter_your_image_for_bora-bora.jpg",
+        "imageUrl": "https://wordpress.pgcruises.com/wp-content/uploads/2021/10/Bora-Bora_Private-Beach_aerial_4636.jpg",
         "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
       },
       {
         "id": 2,
         "name": "Copacabana Beach, Brazil",
-        "imageUrl": "enter_your_image_for_copacabana.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Praia_de_Copacabana_-_Rio_de_Janeiro%2C_Brasil.jpg",
         "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
       }
     ]
